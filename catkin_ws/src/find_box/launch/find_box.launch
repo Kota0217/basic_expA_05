@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="find_box" type="find_box.py" name="find_box" output="screen">
+
+    </node>
+</launch>

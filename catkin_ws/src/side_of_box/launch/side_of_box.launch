@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="side_of_box" type="side_of_box.py" name="side_of_box" output="screen">
+
+    </node>
+</launch>
